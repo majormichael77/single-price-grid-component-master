@@ -72,4 +72,4 @@ This challenge took me back to basics haha.
 
 ## Acknowledgments
 
-I acknowledge my mentor Robert Mion who has been pushing me to become a better developer and take up front-end challenges in order for me to keep growing.Thank you Coach!
+I acknowledge my mentor Robert Mion who has been pushing me to become a better developer and take up front-end challenges in order for me to keep growing.Thank you Coach!# single-price-grid-component-master
