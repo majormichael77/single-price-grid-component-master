@@ -78,7 +78,7 @@ body{
 #card-body1 p{
     margin-left:30px;
     color:#D6D8D9;
-    font-size:0.7rem;
+    font-size:0.8rem;
     font-weight: bold;
     margin-top:0px;
 
@@ -231,6 +231,7 @@ body{
    flex-wrap:wrap;
    padding-bottom: 00px !important;
    justify-content: center;
+   width:100% !important;
    
    
    
